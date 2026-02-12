@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**mahmodeabdelhalim-dev/mahmodeabdelhalim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Mahmoud Abdelhalim
 
-Here are some ideas to get you started:
+ Computer Science Student  
+ Flutter Developer (Learning & Building)  
+ Interested in Backend & AI  
+📱 Building mobile applications with Flutter  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Dart
+- Flutter
+- Git & GitHub (Learning)
+- Problem Solving
+
+##  Current Goal
+Improving my mobile development skills and building real-world projects.
